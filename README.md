@@ -7,7 +7,7 @@ Write in the following in the terminal:
 
 example:
 
-.\vanity_solana.exe test 0 \n
+.\vanity_solana.exe test 0 <br />
 The above will find a keypair that starts with test (case insensitive)
 Currently the script can only find keys that starts with a certain prefix.
 
